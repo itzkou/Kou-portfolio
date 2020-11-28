@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.png',
+  img: 'mei.jpg',
   paragraphOne: 'Hello there 😄',
   paragraphTwo: 'I am actively researching, designing, implementing and managing web and mobile applications. Testing and evaluating new programs. Identifying areas for modification in existing programs and subsequently developing these modifications. Writing and implementing efficient code.',
   paragraphThree: ' ',
