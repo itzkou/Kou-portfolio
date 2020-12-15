@@ -52,6 +52,15 @@ export const projectsData = [
     info2: '⚙️ Django • Bootstrap • Html • Css • Python • Javascript',
     url: 'https://www.behance.net/gallery/109661009/ISIAuth?',
     repo: 'https://github.com/itzkou/seekmake-android', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'boutique.PNG',
+    title: 'Gestion boutique',
+    info: 'An e-commerce website built in Spring MVC',
+    info2: '⚙️ Spring Boot • Java EE • Html • Css • Javascript',
+    url: 'https://www.behance.net/gallery/92300535/JEE-e-commerce-app',
+    repo: 'https://github.com/itzkou/gestion-boutique', // if no repo, the button will not show up
   }
 ];
 
