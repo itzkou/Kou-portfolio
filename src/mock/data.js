@@ -43,6 +43,15 @@ export const projectsData = [
     info2: '⚙️ Android SDK • MVVM • LiveData • Firebase • Kotlin • Lint • Retrofit • XML • Adobe XD • Material Design',
     url: 'https://www.behance.net/gallery/108579769/SeekMake',
     repo: 'https://github.com/itzkou/seekmake-android', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'isiauth.PNG',
+    title: 'ISIAuth',
+    info: 'An open source Event organizer app for my university allowing administration of social events , student subscriptions and more. ',
+    info2: '⚙️ Django • Bootstrap • Html • Css • Python • Javascript',
+    url: 'https://www.behance.net/gallery/109661009/ISIAuth?',
+    repo: 'https://github.com/itzkou/seekmake-android', // if no repo, the button will not show up
   }
 ];
 
