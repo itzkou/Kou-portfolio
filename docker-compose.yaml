@@ -1,20 +1,18 @@
 version: "3.7"
-
 services:
   gatsby:
     build:
       context: .
-      dockerfile: Dockerfile
-    entrypoint: gatsby
-    volumes:
-      - .:/app
-
-  develop:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    command: gatsby develop -H 0.0.0.0
+      dockerfile: Dockerfile.dev
+    container_name: gatsby
     ports:
       - "8000:8000"
     volumes:
-      - .:/app
+      - .:/home/node/app
+    environment:
+      - NODE_ENV=development
+    stdin_open: true
+
+    command: gatsby develop -H 0.0.0.0
+
+  
