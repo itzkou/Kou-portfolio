@@ -30,9 +30,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'Fisaaa.jpg',
     title: 'Fisaa',
-    info: 'A crowd delivery mobile application for iOS and Android',
-    info2: '⚙️ Node.js • CI/CD • Heroku deployment • Android SDK • MVVM • LiveData • Firebase • Android Jetpack • Kotlin couroutines • Room • SSOT pattern • Dependency injection (HILT) ',
-    url: 'https://www.behance.net/gallery/108608375/Uniclub-Trailer',
+    info: 'A crowdsourced delivery mobile application for iOS and Android',
+    info2: '⚙️ Node.js • CI/CD • Heroku • Android SDK • MVVM • LiveData • Firebase • Android Jetpack • Kotlin couroutines • Room • SSOT pattern • Dependency injection',
+    url: 'https://www.behance.net/gallery/119496593/Fisaa',
     
   },
   {
