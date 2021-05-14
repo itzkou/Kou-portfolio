@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Hello there 😄',
   paragraphTwo: 'I am actively researching, designing, implementing and managing web and mobile applications. Testing and evaluating new programs. Identifying areas for modification in existing programs and subsequently developing these modifications. Writing and implementing efficient code.',
   paragraphThree: ' ',
-  resume: 'https://drive.google.com/file/d/1xQ12uiQMgxPE_RkbWPd4lTRBGcTQmFge/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/18nUd1tahuQHNd1lz1BEk55v5FlAhsE17/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
